@@ -1,0 +1,2 @@
+# NewApp
+Simple console app
